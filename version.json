@@ -4,7 +4,7 @@
   "force": false,
   "message": {
     "force": "Phiên bản đã lỗi thời, vui lòng cập nhật để tiếp tục sử dụng ứng dụng.",
-    "latest_version": "Phiên bản mới đã có, vui lòng cập nhật để trải nghiệm các tính năng mới và cải thiện hiệu suất của ứng dụng."
+    "optional": "Phiên bản mới đã có, vui lòng cập nhật để trải nghiệm các tính năng mới và cải thiện hiệu suất của ứng dụng."
   },
   "playstore": "https://play.google.com/store/apps/details?id=vn.quangtt.bhxh",
   "appstore": "https://apps.apple.com/app/id123456"
