@@ -1,8 +1,9 @@
 {
   "latest_version": {
-    "android": "1.1.7"
+    "android": "1.1.7",
+    "ios": "1.0.4"
   },
   "message": "DicBHXH đã có phiên bản mới, vui lòng cập nhật để trải nghiệm các tính năng mới và cải thiện hiệu suất của ứng dụng.",
   "android": "https://play.google.com/store/apps/details?id=vn.quangtt.bhxh",
-  "ios": "https://apps.apple.com/app/id123456"
+  "ios": "https://apps.apple.com/vn/app/dicbhxh/id6760584446"
 }
